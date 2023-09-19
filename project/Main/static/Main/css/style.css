@@ -1,0 +1,26 @@
+p{
+    font-size: 20px;
+    color: cornflowerblue;
+    font-weight: bold
+}
+
+#img1{
+    width: 25%;
+}
+
+#img2{
+    width: 25%;
+}
+
+#img3{
+    width: 25%;
+}
+
+#img4{
+    width: 25%;
+}
+
+a{
+    font-size: 18px;
+    color: blueviolet;
+}
